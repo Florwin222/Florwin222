@@ -1,7 +1,7 @@
 - 👋Meow, I’m @Florwin222
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Laravel, ReactJS and React-Native
-- 💞️ I’m looking to collaborate on making Mobile Apps
+- 💞️ 
 - 📫 How to reach me > pm me
 
 <!---
