@@ -1,8 +1,8 @@
-- 👋Meow, I’m @Florwin222
+- 👋, I’m @Florwin222
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Laravel, ReactJS and React-Native
+- 🌱 I’m currently learning React
 - 💞️ 
-- 📫 How to reach me > pm me
+
 
 <!---
 Florwin222/Florwin222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
