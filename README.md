@@ -1,7 +1,6 @@
 - 👋, I’m @Florwin222
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 💞️ 
+
+ 
 
 
 <!---
